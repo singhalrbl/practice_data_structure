@@ -1,0 +1,8 @@
+--> sqaure root of a number using binary search
+--> first and last occurences of a number in array
+--> count number of 1's in binary array.(DONE)
+--> total number of occurences in array
+--> find the number in infinite or large array(unbounded algorithum)(DONE)
+--> find a element in rotated sorted array(DONE)
+--> Given a sorted array and a sum , find if there is a pair with given sum.(hashing approach or two pointer approach)
+--> Given a sorted array and a sum , find if there is a triplet with given sum.(hashing approach or two pointer approach)

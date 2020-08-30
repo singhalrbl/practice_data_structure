@@ -1,0 +1,431 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HoaresPartitionAlgorithum",
+            "request": "launch",
+            "mainClass": "sorting.HoaresPartitionAlgorithum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LomutoPartitions",
+            "request": "launch",
+            "mainClass": "sorting.LomutoPartitions",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "sorting.Test",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveQuickSortAlgorithum",
+            "request": "launch",
+            "mainClass": "sorting.NaiveQuickSortAlgorithum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "mainClass": "geeks.search_array.GFG",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSortAlgorithum",
+            "request": "launch",
+            "mainClass": "sorting.BubbleSortAlgorithum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchInInfiniteArray",
+            "request": "launch",
+            "mainClass": "geeks.search_array.SearchInInfiniteArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - findAlltheOccurences",
+            "request": "launch",
+            "mainClass": "geeks.search_array.findAlltheOccurences",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstOccurenceOfelement",
+            "request": "launch",
+            "mainClass": "geeks.search_array.FirstOccurenceOfelement",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchVideo1",
+            "request": "launch",
+            "mainClass": "geeks.search_array.BinarySearchVideo1",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountTheNumberOfOccurences",
+            "request": "launch",
+            "mainClass": "geeks.search_array.CountTheNumberOfOccurences",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SeachElementInRotatedArray",
+            "request": "launch",
+            "mainClass": "geeks.search_array.SeachElementInRotatedArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MissingNumber",
+            "request": "launch",
+            "mainClass": "geeks.search_array.MissingNumber",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JumpSearch",
+            "request": "launch",
+            "mainClass": "geeks.search_array.JumpSearch",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotationOfArray",
+            "request": "launch",
+            "mainClass": "geeks.arrays.RotationOfArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Merging",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.Merging",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeftShiftAndLeftRotate",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.LeftShiftAndLeftRotate",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseArray",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.ReverseArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayOperations",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.ArrayOperations",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchRecursive",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.BinarySearchRecursive",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.BinarySearch",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearSearchTranspositionMethod",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.LinearSearchTranspositionMethod",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearSearchMoveToHead",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.LinearSearchMoveToHead",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearSearch",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.LinearSearch",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayAdt",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.ArrayAdt",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arrayIntro",
+            "request": "launch",
+            "mainClass": "revision_30may2020.array.arrayIntro",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeRecursion",
+            "request": "launch",
+            "mainClass": "revision_30may2020.recursion.TreeRecursion",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticRecursion",
+            "request": "launch",
+            "mainClass": "revision_30may2020.recursion.StaticRecursion",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SampleRecursion3",
+            "request": "launch",
+            "mainClass": "revision_30may2020.recursion.SampleRecursion3",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SampleRecursion2",
+            "request": "launch",
+            "mainClass": "revision_30may2020.recursion_30may2020.SampleRecursion2",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sampleRecursion",
+            "request": "launch",
+            "mainClass": "revision_30may2020.recursion_30may2020.sampleRecursion",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RArrayApp",
+            "request": "launch",
+            "mainClass": "revision_30may2020.RArrayApp",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankApp",
+            "request": "launch",
+            "mainClass": "revesion_30may2020.BankApp",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "revesion_30may2020.Test",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwapLinkListElements",
+            "request": "launch",
+            "mainClass": "LinkList.SwapLinkListElements",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeleteNodeOnValue",
+            "request": "launch",
+            "mainClass": "LinkList.DeleteNodeOnValue",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MiddleOfLinkList",
+            "request": "launch",
+            "mainClass": "LinkList.MiddleOfLinkList",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkListDeletion",
+            "request": "launch",
+            "mainClass": "LinkList.LinkListDeletion",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkListGeeks",
+            "request": "launch",
+            "mainClass": "LinkList.LinkListGeeks",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkList",
+            "request": "launch",
+            "mainClass": "LinkList.LinkList",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckArrrayIsSorted",
+            "request": "launch",
+            "mainClass": "Array.CheckArrrayIsSorted",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RearrangeNumbers",
+            "request": "launch",
+            "mainClass": "Array.RearrangeNumbers",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchRevision",
+            "request": "launch",
+            "mainClass": "search.BinarySearchRevision",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Linearsearch",
+            "request": "launch",
+            "mainClass": "search.Linearsearch",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeleteElement",
+            "request": "launch",
+            "mainClass": "Array.DeleteElement",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Insert",
+            "request": "launch",
+            "mainClass": "Array.Insert",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "Array.Array",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Array.Test",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorialOfNumber",
+            "request": "launch",
+            "mainClass": "recursion.FactorialOfNumber",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ResursiveSumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "recursion.ResursiveSumOfNaturalNumbers",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "recursion.SumOfNaturalNumbers",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticAndGlobalRecursion",
+            "request": "launch",
+            "mainClass": "recursion.StaticAndGlobalRecursion",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example1",
+            "request": "launch",
+            "mainClass": "recursion.Example1",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergePracticeAlgorithum",
+            "request": "launch",
+            "mainClass": "sorting.MergePracticeAlgorithum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "mainClass": "sorting.MergeSort",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertionSort",
+            "request": "launch",
+            "mainClass": "sorting.InsertionSort",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarSearch",
+            "request": "launch",
+            "mainClass": "search.BinarSearch",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleInsertionDeletion",
+            "request": "launch",
+            "mainClass": "Arrays.SimpleInsertionDeletion",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bankaccount",
+            "request": "launch",
+            "mainClass": "app.Bankaccount",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Arrays.Test",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "POH"
+        }
+    ]
+}
