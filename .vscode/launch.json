@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MergeTwoArrays",
+            "request": "launch",
+            "mainClass": "geeks.sorting.MergeTwoArrays",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSortHoaresAlgorithum",
+            "request": "launch",
+            "mainClass": "geeks.sorting.QuickSortHoaresAlgorithum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QuickSortLomutoAlgo",
             "request": "launch",
             "mainClass": "geeks.sorting.QuickSortLomutoAlgo",
