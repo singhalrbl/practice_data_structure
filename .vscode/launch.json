@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - QuickSortLomutoAlgo",
+            "request": "launch",
+            "mainClass": "geeks.sorting.QuickSortLomutoAlgo",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HoaresPartitionAlgorithum",
             "request": "launch",
             "mainClass": "sorting.HoaresPartitionAlgorithum",
