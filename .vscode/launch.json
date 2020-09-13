@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SegregateArrayWithTwoTypeElements",
+            "request": "launch",
+            "mainClass": "geeks.sorting.SegregateArrayWithTwoTypeElements",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SegregateArray1",
+            "request": "launch",
+            "mainClass": "geeks.sorting.SegregateArray1",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfNatualnumber",
+            "request": "launch",
+            "mainClass": "geeks.recursion.SumOfNatualnumber",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fibonacciNumber",
+            "request": "launch",
+            "mainClass": "geeks.recursion.fibonacciNumber",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeAlgorithum",
+            "request": "launch",
+            "mainClass": "geeks.sorting.MergeAlgorithum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MergeTwoArrays",
             "request": "launch",
             "mainClass": "geeks.sorting.MergeTwoArrays",
