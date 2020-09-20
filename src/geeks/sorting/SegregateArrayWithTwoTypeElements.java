@@ -53,8 +53,8 @@ public class SegregateArrayWithTwoTypeElements {
         SegregateArrayWithTwoTypeElements object = new SegregateArrayWithTwoTypeElements();
         int low = 0;
         int high = arr.length - 1;
-        // int display[] =object.sortArray(arr,low,high);
-        int display[] = object.sortOddEven(arr, low, high);
+       //  int display[] =object.sortArray(arr,low,high);
+          int display[] = object.sortOddEven(arr, low, high);
         for (int i = 0; i < arr.length; i++) {
             System.out.print(" " + display[i]);
         }

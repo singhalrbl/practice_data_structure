@@ -2,6 +2,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PairWithGivenSum",
+            "request": "launch",
+            "mainClass": "geeks.hashing.PairWithGivenSum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaivePairWithGivenSum",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaivePairWithGivenSum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UnionOfUnsortedArray",
+            "request": "launch",
+            "mainClass": "geeks.hashing.UnionOfUnsortedArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveUnionOfUnsortedArray",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveUnionOfUnsortedArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterSectionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "geeks.hashing.InterSectionOfTwoArrays",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveInterSectionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveInterSectionOfTwoArrays",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveCountOfFrequecies",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveCountOfFrequecies",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveCountDistinctElement",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveCountDistinctElement",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestSubArrayWithGivenSum",
+            "request": "launch",
+            "mainClass": "geeks.hashing.LongestSubArrayWithGivenSum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountfrequenciesOftheElement",
+            "request": "launch",
+            "mainClass": "geeks.hashing.CountfrequenciesOftheElement",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountDistinctElement",
+            "request": "launch",
+            "mainClass": "geeks.hashing.CountDistinctElement",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SegregateArrayWithThreeTypeElements",
+            "request": "launch",
+            "mainClass": "geeks.sorting.SegregateArrayWithThreeTypeElements",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SegregateArrayWithTwoTypeElements",
             "request": "launch",
             "mainClass": "geeks.sorting.SegregateArrayWithTwoTypeElements",
