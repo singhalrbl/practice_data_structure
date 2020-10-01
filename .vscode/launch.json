@@ -2,6 +2,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CheckAnagram",
+            "request": "launch",
+            "mainClass": "geeks.string.CheckAnagram",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveCheckAnagram",
+            "request": "launch",
+            "mainClass": "geeks.string.NaiveCheckAnagram",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GuessTheOutput",
+            "request": "launch",
+            "mainClass": "geeks.string.GuessTheOutput",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TellTheOutput",
+            "request": "launch",
+            "mainClass": "geeks.string.TellTheOutput",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FunctionsInString",
+            "request": "launch",
+            "mainClass": "geeks.string.FunctionsInString",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "geeks.string.Test",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintCharcterFrequencyInSortedOrder",
+            "request": "launch",
+            "mainClass": "geeks.string.PrintCharcterFrequencyInSortedOrder",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "geeks.hashing.Test",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveCountDistinctElementInWindow",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveCountDistinctElementInWindow",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveLongestSubArrayWithGivenSum",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveLongestSubArrayWithGivenSum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestSubArrayWithSumZero",
+            "request": "launch",
+            "mainClass": "geeks.hashing.LongestSubArrayWithSumZero",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveLongestSubArrayWithSumZero",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveLongestSubArrayWithSumZero",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubArrayWithGivenSum",
+            "request": "launch",
+            "mainClass": "geeks.hashing.SubArrayWithGivenSum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveSubArrayWithGivenSun",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveSubArrayWithGivenSun",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubArrayWithZeroSum",
+            "request": "launch",
+            "mainClass": "geeks.hashing.SubArrayWithZeroSum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveSubArrayWithZeroSum",
+            "request": "launch",
+            "mainClass": "geeks.hashing.NaiveSubArrayWithZeroSum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PairWithGivenSum",
             "request": "launch",
             "mainClass": "geeks.hashing.PairWithGivenSum",
