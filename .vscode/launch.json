@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NaivePattermatchingAlgorithum",
+            "request": "launch",
+            "mainClass": "geeks.string.patternmaching.NaivePattermatchingAlgorithum",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeftMostRepeatingCharacter",
+            "request": "launch",
+            "mainClass": "geeks.string.LeftMostRepeatingCharacter",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Naive3LeftMostRepeatingCharacter",
+            "request": "launch",
+            "mainClass": "geeks.string.Naive3LeftMostRepeatingCharacter",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Naive2LeftMostRepeatingCharacter",
+            "request": "launch",
+            "mainClass": "geeks.string.Naive2LeftMostRepeatingCharacter",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Naive1LeftMostRepeatingCharacter",
+            "request": "launch",
+            "mainClass": "geeks.string.Naive1LeftMostRepeatingCharacter",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CheckAnagram",
             "request": "launch",
             "mainClass": "geeks.string.CheckAnagram",

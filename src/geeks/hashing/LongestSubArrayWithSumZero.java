@@ -2,8 +2,6 @@ package geeks.hashing;
 
 import java.util.HashSet;
 
-import javax.xml.crypto.Data;
-
 public class LongestSubArrayWithSumZero {
 
 

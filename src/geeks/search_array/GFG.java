@@ -1,10 +1,7 @@
 package geeks.search_array;
 
 /*package whatever //do not write package name here */
-
-import java.util.*;
-import java.lang.*;
-import java.io.*;
+import java.util.Scanner;
 
 class GFG {
     
