@@ -2,6 +2,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LeaderInArray",
+            "request": "launch",
+            "mainClass": "geeks.arrays.LeaderInArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveLeadersInArray",
+            "request": "launch",
+            "mainClass": "geeks.arrays.NaiveLeadersInArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - naiveLeadersInArray",
+            "request": "launch",
+            "mainClass": "geeks.arrays.naiveLeadersInArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaximumDifference",
+            "request": "launch",
+            "mainClass": "geeks.arrays.MaximumDifference",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveMaximumDifference",
+            "request": "launch",
+            "mainClass": "geeks.arrays.NaiveMaximumDifference",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoveAllZeroToEnd",
+            "request": "launch",
+            "mainClass": "geeks.arrays.MoveAllZeroToEnd",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveMoveAllZeroToEnd",
+            "request": "launch",
+            "mainClass": "geeks.arrays.NaiveMoveAllZeroToEnd",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchInArray",
+            "request": "launch",
+            "mainClass": "geeks.arrays.SearchInArray",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test2",
+            "request": "launch",
+            "mainClass": "geeks.string.Test2",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NaiveLongestSuffuxPrefix",
+            "request": "launch",
+            "mainClass": "geeks.string.patternmaching.NaiveLongestSuffuxPrefix",
+            "projectName": "POH"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NaivePattermatchingAlgorithum",
             "request": "launch",
             "mainClass": "geeks.string.patternmaching.NaivePattermatchingAlgorithum",
